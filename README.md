@@ -32,3 +32,4 @@ chmod +x turnkey.sh
 1) Add configuration for system settings / preferences
 2) Add functionaility to remove/update applications on cli
 3) Perhaps a hosted target to provide better infrastructure for finding install app updates.
+4) Add support for .pkg files using installer
