@@ -1,0 +1,13 @@
+#brew: wget
+#brew: git
+#brew: mas
+
+#app: 1password
+#app: slack
+#app: final cut pro
+#app: logic pro x
+
+#install: https://az764295.vo.msecnd.net/stable/6ab598523be7a800d7f3eb4d92d7ab9a66069390/VSCode-darwin-stable.zip
+#install: https://download01.logi.com/web/ftp/pub/techsupport/options/Options_8.02.86.zip
+#install: https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg
+#install: https://dl.google.com/drive/InstallBackupAndSync.dmg
